@@ -1,0 +1,6 @@
+{
+  "name": "BarakahFlow - Gamified Islamic Productivity & Life OS",
+  "description": "Comprehensive Islamic productivity system featuring prayer-based weekly planning, habit tracking, XP leveling, Pomodoro flow timers, and adventurer gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
